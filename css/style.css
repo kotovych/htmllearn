@@ -25,8 +25,11 @@ div {
 	margin: 10px 10px 10px auto;
 }
 h1 {
-	text-align: center;
-	border:2px solid black; 
+
+	text-align: 20px;
+	padding: 10px;
+	background-color:  ; 
+ 
 }
 h2 {
 	text-align: center;
@@ -47,4 +50,7 @@ h2 {
  }
 * {
 	box-sizing: border-box;
+}
+p {
+	color: white ;
 }
